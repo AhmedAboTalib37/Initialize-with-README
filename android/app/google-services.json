@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17289866521",
+    "project_id": "finalrecipeapp-89648",
+    "storage_bucket": "finalrecipeapp-89648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17289866521:android:bd7aeae7e8a5ed1c502988",
+        "android_client_info": {
+          "package_name": "com.example.alpha_generations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Pkl51vrXoXplpqgsT6dx9qujRlq7k3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
