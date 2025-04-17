@@ -1,6 +1,6 @@
 # alpha_generations
 
-A new Flutter project.
+A new Flutter project by Ahmed AboTalib.
 
 ## Getting Started
 
